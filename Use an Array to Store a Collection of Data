@@ -1,0 +1,5 @@
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray.length);
+
+
+let yourArray= ["a", 2, true, "c", null, { name: "john" }]; 
