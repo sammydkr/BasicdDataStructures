@@ -1,0 +1,8 @@
+When we define a simple array as seen below, there are 3 items in it:
+let ourArray = ["a", "b", "c"];
+
+let myArray = ["a", "b", "c", "d"];
+myArray[1]= "semihdiker"
+
+
+console.log(myArray);
